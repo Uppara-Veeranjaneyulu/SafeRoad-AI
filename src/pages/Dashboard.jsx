@@ -1,3 +1,4 @@
+import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { MdDashboard, MdImage, MdAnalytics, MdTrendingUp, MdShield, MdSpeed } from 'react-icons/md';
 import AnalyticsCard from '../components/AnalyticsCard';
@@ -5,10 +6,11 @@ import { RiskChart } from '../components/Charts/RiskChart';
 import { TrafficChart } from '../components/Charts/TrafficChart';
 import { ModelComparisonChart } from '../components/Charts/ModelComparisonChart';
 import { TrendChart } from '../components/Charts/TrendChart';
-import { dashboardStats, predictionHistory } from '../data/dummyData';
+import { dashboardStats as fallbackStats, predictionHistory as fallbackHistory } from '../data/dummyData';
+import { predictionAPI } from '../services/api';
 
 const riskBadge = (risk) => {
-  if (risk === 'Low Risk') return <span className="badge-low">{risk}</span>;
+  if (risk === 'Low Risk' || risk === 'Safe') return <span className="badge-low">{risk}</span>;
   if (risk === 'Moderate Risk') return <span className="badge-moderate">{risk}</span>;
   return <span className="badge-high">{risk}</span>;
 };
@@ -26,6 +28,42 @@ function ChartCard({ title, subtitle, children }) {
 }
 
 export default function Dashboard() {
+  const [stats, setStats] = useState(fallbackStats);
+  const [history, setHistory] = useState(fallbackHistory);
+  const [isLive, setIsLive] = useState(false);
+
+  useEffect(() => {
+    fetchDashboardData();
+  }, []);
+
+  const fetchDashboardData = async () => {
+    try {
+      const [statsRes, historyRes] = await Promise.allSettled([
+        predictionAPI.getStats(),
+        predictionAPI.getHistory(),
+      ]);
+
+      if (statsRes.status === 'fulfilled' && statsRes.value) {
+        setStats((prev) => ({
+          ...prev,
+          ...statsRes.value,
+          totalPredictions: statsRes.value.totalPredictions || prev.totalPredictions,
+          avgConfidence: statsRes.value.avgConfidence || prev.avgConfidence,
+          bestModel: statsRes.value.bestModel || prev.bestModel,
+          latestPrediction: statsRes.value.latestPrediction || prev.latestPrediction,
+        }));
+        setIsLive(true);
+      }
+
+      if (historyRes.status === 'fulfilled' && Array.isArray(historyRes.value) && historyRes.value.length > 0) {
+        setHistory(historyRes.value);
+        setIsLive(true);
+      }
+    } catch (e) {
+      console.log('Using local fallback stats for dashboard');
+    }
+  };
+
   return (
     <div className="min-h-screen bg-[#FEFEF4] pt-24 pb-16 text-[#222426]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -45,30 +83,57 @@ export default function Dashboard() {
             </div>
           </div>
           <div className="flex items-center gap-2 mt-3">
-            <span className="w-2 h-2 rounded-full bg-[#E5BD1A] animate-pulse" />
-            <span className="text-xs text-[#E5BD1A] font-medium">Live · Updated 2 minutes ago</span>
+            <span className={`w-2 h-2 rounded-full ${isLive ? 'bg-[#00A843]' : 'bg-[#E5BD1A]'} animate-pulse`} />
+            <span className="text-xs font-medium" style={{ color: isLive ? '#00A843' : '#E5BD1A' }}>
+              {isLive ? 'Live Connected to Backend' : 'Syncing · Local Statistics'}
+            </span>
           </div>
         </motion.div>
 
         {/* Stats Row */}
         <div className="grid grid-cols-2 lg:grid-cols-5 gap-4 mb-8">
-          <AnalyticsCard title="Total Images Processed" value={dashboardStats.totalImages} icon={MdImage} color="#E5BD1A" trend={8} />
-          <AnalyticsCard title="Total Predictions" value={dashboardStats.totalPredictions} icon={MdAnalytics} color="#E5BD1A" trend={12} />
-          <AnalyticsCard title="Avg Confidence" value={dashboardStats.avgConfidence} unit="%" icon={MdTrendingUp} color="#4F504E" trend={2} />
-          <AnalyticsCard title="Best Model" value={dashboardStats.bestModel} icon={MdSpeed} color="#E5BD1A" isNumber={false} />
+          <AnalyticsCard
+            title="Total Images Processed"
+            value={stats.totalImages || 6949}
+            icon={MdImage}
+            color="#E5BD1A"
+            trend={8}
+          />
+          <AnalyticsCard
+            title="Total Predictions"
+            value={stats.totalPredictions}
+            icon={MdAnalytics}
+            color="#E5BD1A"
+            trend={12}
+          />
+          <AnalyticsCard
+            title="Avg Confidence"
+            value={stats.avgConfidence}
+            unit="%"
+            icon={MdTrendingUp}
+            color="#4F504E"
+            trend={2}
+          />
+          <AnalyticsCard
+            title="Best Model"
+            value={stats.bestModel || 'EfficientNetB0'}
+            icon={MdSpeed}
+            color="#E5BD1A"
+            isNumber={false}
+          />
           <AnalyticsCard
             title="Latest Prediction"
-            value={dashboardStats.latestPrediction.risk}
+            value={stats.latestPrediction?.risk || 'Safe'}
             icon={MdShield}
-            color="#D32F2F"
+            color={stats.latestPrediction?.risk === 'High Risk' ? '#D32F2F' : '#00A843'}
             isNumber={false}
-            subtitle={`${dashboardStats.latestPrediction.confidence}% confidence · ${dashboardStats.latestPrediction.timestamp}`}
+            subtitle={`${stats.latestPrediction?.confidence || 95}% confidence · ${stats.latestPrediction?.timestamp || 'Recently'}`}
           />
         </div>
 
         {/* Charts Row 1 */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 mb-5">
-          <ChartCard title="Risk Level Distribution" subtitle="All predictions categorized by risk">
+          <ChartCard title="Risk Level Distribution" subtitle="Predictions categorized by risk tier">
             <RiskChart />
           </ChartCard>
           <ChartCard title="Traffic Density Distribution" subtitle="Scene traffic patterns across dataset">
@@ -101,7 +166,7 @@ export default function Dashboard() {
               <p className="text-xs text-[#7E7F81] mt-0.5">Recent road scene analyses</p>
             </div>
             <span className="text-xs px-3 py-1 rounded-full bg-[#FEFEF4] border border-[#222426]/10 text-[#4F504E] font-medium">
-              {predictionHistory.length} records
+              {history.length} records
             </span>
           </div>
           <div className="overflow-x-auto">
@@ -120,23 +185,28 @@ export default function Dashboard() {
                 </tr>
               </thead>
               <tbody>
-                {predictionHistory.map((row, i) => (
+                {history.map((row, i) => (
                   <motion.tr
-                    key={row.id}
+                    key={row.id || i}
                     initial={{ opacity: 0, x: -20 }}
                     animate={{ opacity: 1, x: 0 }}
-                    transition={{ delay: i * 0.05 }}
+                    transition={{ delay: i * 0.03 }}
                   >
                     <td className="font-mono text-xs text-[#7E7F81]">{row.id}</td>
                     <td className="text-[#4F504E] text-xs font-semibold">{row.image}</td>
                     <td>
-                      <span className="text-xs px-2 py-1 rounded-md bg-[#FEFEF4] border border-[#222426]/10 text-[#4F504E] font-medium">{row.model}</span>
+                      <span className="text-xs px-2 py-1 rounded-md bg-[#FEFEF4] border border-[#222426]/10 text-[#4F504E] font-medium">
+                        {row.model}
+                      </span>
                     </td>
                     <td>{riskBadge(row.risk)}</td>
                     <td>
                       <div className="flex items-center gap-2">
                         <div className="h-1.5 w-16 rounded-full bg-[#222426]/10 overflow-hidden">
-                          <div className="h-full rounded-full bg-[#FAD02C]" style={{ width: `${row.confidence}%` }} />
+                          <div
+                            className="h-full rounded-full bg-[#FAD02C]"
+                            style={{ width: `${row.confidence}%` }}
+                          />
                         </div>
                         <span className="text-xs text-[#4F504E] font-semibold">{row.confidence}%</span>
                       </div>
@@ -144,7 +214,7 @@ export default function Dashboard() {
                     <td className="text-xs text-[#4F504E] font-medium">{row.traffic}</td>
                     <td className="text-xs text-[#4F504E] font-medium">{row.weather}</td>
                     <td className="font-mono text-xs text-[#00A843] font-semibold">{row.duration}</td>
-                    <td className="text-xs text-[#7E7F81]">{row.time}</td>
+                    <td className="text-xs text-[#7E7F81]">{row.time || row.timestamp || 'Recently'}</td>
                   </motion.tr>
                 ))}
               </tbody>

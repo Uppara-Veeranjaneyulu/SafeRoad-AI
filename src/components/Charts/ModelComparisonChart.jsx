@@ -3,16 +3,16 @@ import { defaultOptions } from './chartConfig';
 import { modelComparisonData } from '../../data/dummyData';
 import '../Charts/chartConfig';
 
-export function ModelComparisonChart() {
+export function ModelComparisonChart({ data }) {
   return (
     <div className="chart-wrapper">
-      <Bar data={modelComparisonData} options={{
+      <Bar data={data || modelComparisonData} options={{
         ...defaultOptions,
         scales: {
           ...defaultOptions.scales,
           y: {
             ...defaultOptions.scales.y,
-            min: 80,
+            min: 50,
             max: 100,
             ticks: { ...defaultOptions.scales.y.ticks, callback: (v) => `${v}%` },
           },

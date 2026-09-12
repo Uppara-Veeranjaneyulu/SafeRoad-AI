@@ -1,0 +1,50 @@
+{
+  "model": "CNN",
+  "accuracy": 0.6855225311601151,
+  "accuracy_percent": 68.55225311601151,
+  "precision": 0.6023850236294183,
+  "recall": 0.5520853494741904,
+  "f1_score": 0.5338790743365683,
+  "macro_f1": 0.5338790743365683,
+  "high_risk_recall": 0.7919254658385093,
+  "per_class": {
+    "Safe": {
+      "precision": 0.9595959595959596,
+      "recall": 0.5382436260623229,
+      "f1_score": 0.6896551724137931,
+      "support": 353
+    },
+    "Moderate Risk": {
+      "precision": 0.08522727272727272,
+      "recall": 0.32608695652173914,
+      "f1_score": 0.13513513513513514,
+      "support": 46
+    },
+    "High Risk": {
+      "precision": 0.7623318385650224,
+      "recall": 0.7919254658385093,
+      "f1_score": 0.7768469154607769,
+      "support": 644
+    }
+  },
+  "confusion_matrix": [
+    [
+      190,
+      34,
+      129
+    ],
+    [
+      1,
+      15,
+      30
+    ],
+    [
+      7,
+      127,
+      510
+    ]
+  ],
+  "inference_time_ms": 5.408293906017096,
+  "training_time_seconds": 510.0,
+  "total_parameters": 421699
+}

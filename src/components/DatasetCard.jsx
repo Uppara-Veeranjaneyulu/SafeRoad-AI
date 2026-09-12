@@ -79,7 +79,7 @@ export default function DatasetCard({ dataset, index = 0 }) {
           <p className="text-xs text-[#7E7F81] uppercase tracking-wider mb-3 font-medium">Class Distribution ({dataset.imagesUsed} images used)</p>
           {Object.entries(dataset.classDistribution).map(([cls, count]) => {
             const pct = Math.round((count / dataset.imagesUsed) * 100);
-            const color = cls === 'Low Risk' ? '#00A843' : cls === 'Moderate Risk' ? '#D49A00' : '#D32F2F';
+            const color = (cls === 'Low Risk' || cls === 'Safe') ? '#10B981' : cls === 'Moderate Risk' ? '#F59E0B' : '#EF4444';
             return (
               <div key={cls} className="mb-2">
                 <div className="flex justify-between text-xs mb-1">

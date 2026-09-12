@@ -114,6 +114,7 @@ dist
 
 # macOS system files
 .DS_Store
+Thumbs.db
 
 # Vite / bundler outputs
 dist/
@@ -122,3 +123,99 @@ dist-ssr/
 
 # Vite cache
 .vite/
+
+# -----------------------------------------------------------------------------
+# Machine Learning: Model Weights & Large Binaries (Exceeds GitHub size limits)
+# -----------------------------------------------------------------------------
+*.pt
+*.pth
+*.keras
+*.h5
+*.hdf5
+*.onnx
+*.tflite
+*.weights
+*.pkl
+*.pickle
+*.joblib
+yolov8n.pt
+trained_models/
+models/*.keras
+models/*.h5
+models/*.pt
+
+# -----------------------------------------------------------------------------
+# Raw Datasets & Heavy Media (Do not push gigabytes of images/video)
+# -----------------------------------------------------------------------------
+data/
+datasets/
+raw_data/
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
+
+# -----------------------------------------------------------------------------
+# Python Bytecode, Caches & Virtual Environments
+# -----------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# -----------------------------------------------------------------------------
+# Microsoft Office Temporary Lock & Auto-Save Files
+# -----------------------------------------------------------------------------
+~$*.pptx
+~$*.docx
+~$*.xlsx
+~$*
+
+# -----------------------------------------------------------------------------
+# Temporary Inspection Dumps, Scratch Scripts & Logs
+# -----------------------------------------------------------------------------
+details_out.txt
+details_utf8.txt
+ref_pptx_full_text.txt
+ref_pptx_outline.txt
+ref_pptx_shapes_inventory.txt
+scratch_review2_inspection.json
+test_builder.py
+test_deck.pptx
+dump_ref_full.py
+export_details.py
+extract_images.py
+inspect_ref_pptx.py
+inspect_review2.py
+inspect_table_style.py
+inventory_shapes.py
+outline_ref.py
+print_details.py
+print_summary.py
+verify_deck.py
+capture_ui.py
+scratch/

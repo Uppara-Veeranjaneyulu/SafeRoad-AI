@@ -1,0 +1,1043 @@
+path,label,class_name,folder
+data/High/aafe19f7-8994ad50.jpg,2,High Risk,High
+data/High/int_video3_frame000260.jpg,2,High Risk,High
+data/High/a385067d-e7dd963e.jpg,2,High Risk,High
+data/High/int_video3_frame004134.jpg,2,High Risk,High
+data/High/frame14053_inst_label.png,2,High Risk,High
+data/High/yt_video2_frame003788.jpg,2,High Risk,High
+data/Safe/yt_video2_frame002967.jpg,0,Safe,Safe
+data/Safe/yt_video2_frame004447.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000153.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000377.jpg,0,Safe,Safe
+data/High/yt_video3_frame007691.jpg,2,High Risk,High
+data/High/831898_label.png,2,High Risk,High
+data/Safe/int_video3_frame003507.jpg,0,Safe,Safe
+data/Safe/int_video3_frame003803.jpg,0,Safe,Safe
+data/High/yt_video3_frame013118.jpg,2,High Risk,High
+data/High/yt_video3_frame007156.jpg,2,High Risk,High
+data/Safe/2acfcd8d-8fc71939.jpg,0,Safe,Safe
+data/Moderate/yt_video1_frame002634.jpg,1,Moderate Risk,Moderate
+data/Moderate/yt_video2_frame004710.jpg,1,Moderate Risk,Moderate
+data/High/yt_video2_frame001800.jpg,2,High Risk,High
+data/High/yt_video3_frame002461.jpg,2,High Risk,High
+data/High/yt_video1_frame003001.jpg,2,High Risk,High
+data/Moderate/custom_safe_highway_0072.jpg,1,Moderate Risk,Moderate
+data/Safe/int_video3_frame002972.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000190.jpg,0,Safe,Safe
+data/High/yt_video1_frame004059.jpg,2,High Risk,High
+data/Moderate/yt_video1_frame001629.jpg,1,Moderate Risk,Moderate
+data/Safe/yt_video3_frame000236.jpg,0,Safe,Safe
+data/High/yt_video1_frame001436.jpg,2,High Risk,High
+data/High/711209_label.png,2,High Risk,High
+data/Safe/int_video1_frame000369.jpg,0,Safe,Safe
+data/High/162616_label.png,2,High Risk,High
+data/High/yt_video3_frame007105.jpg,2,High Risk,High
+data/High/a6ed1305-8926b2c1.jpg,2,High Risk,High
+data/Moderate/yt_video1_frame003466.jpg,1,Moderate Risk,Moderate
+data/Safe/int_video1_frame000529.jpg,0,Safe,Safe
+data/Safe/int_video3_frame000577.jpg,0,Safe,Safe
+data/Safe/yt_video2_frame002972.jpg,0,Safe,Safe
+data/Safe/custom_high_risk_rain_0038.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000176.jpg,0,Safe,Safe
+data/High/83c8fc7a-71cf0109.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0100.jpg,2,High Risk,High
+data/High/custom_high_risk_rain_0138.jpg,2,High Risk,High
+data/Safe/592149_image.jpg,0,Safe,Safe
+data/High/2360dc23-2ef08b67.jpg,2,High Risk,High
+data/Safe/yt_video2_frame004733.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000611.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000372.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000421.jpg,0,Safe,Safe
+data/Safe/yt_video2_frame001619.jpg,0,Safe,Safe
+data/High/9a003264-8386e4df.jpg,2,High Risk,High
+data/High/3c469980-fb0ca2f9.jpg,2,High Risk,High
+data/Safe/int_video2_frame000055.jpg,0,Safe,Safe
+data/High/frame9249_inst_label.png,2,High Risk,High
+data/Safe/int_video1_frame000337.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000382.jpg,0,Safe,Safe
+data/High/int_video3_frame001960.jpg,2,High Risk,High
+data/High/a5ebdda9-1e88bd68.jpg,2,High Risk,High
+data/Safe/yt_video1_frame002933.jpg,0,Safe,Safe
+data/Safe/int_video3_frame005290.jpg,0,Safe,Safe
+data/Safe/yt_video3_frame001349.jpg,0,Safe,Safe
+data/High/156670_label.png,2,High Risk,High
+data/Safe/int_video2_frame000164.jpg,0,Safe,Safe
+data/High/9a1d74fb-280a9c25.jpg,2,High Risk,High
+data/High/1c771b09-095562f4.jpg,2,High Risk,High
+data/High/yt_video2_frame000589.jpg,2,High Risk,High
+data/High/yt_video2_frame002782.jpg,2,High Risk,High
+data/High/009696_label.png,2,High Risk,High
+data/High/yt_video3_frame008060.jpg,2,High Risk,High
+data/High/yt_video1_frame000015.jpg,2,High Risk,High
+data/Safe/int_video3_frame004954.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000103.jpg,0,Safe,Safe
+data/High/yt_video1_frame000424.jpg,2,High Risk,High
+data/Safe/int_video1_frame000394.jpg,0,Safe,Safe
+data/Safe/int_video3_frame000582.jpg,0,Safe,Safe
+data/High/custom_moderate_city_traffic_0153.jpg,2,High Risk,High
+data/Safe/int_video2_frame000673.jpg,0,Safe,Safe
+data/Safe/frame16785_image.jpg,0,Safe,Safe
+data/High/yt_video1_frame003958.jpg,2,High Risk,High
+data/High/44f99ac4-e57d0b77.jpg,2,High Risk,High
+data/Safe/int_video2_frame000501.jpg,0,Safe,Safe
+data/High/10f1c38c-a5507eb5.jpg,2,High Risk,High
+data/Safe/yt_video1_frame001223.jpg,0,Safe,Safe
+data/High/0e05bcf0-f634e5ac.jpg,2,High Risk,High
+data/Safe/int_video2_frame000303.jpg,0,Safe,Safe
+data/High/5c6a4aad-9c907acd.jpg,2,High Risk,High
+data/High/yt_video2_frame004718.jpg,2,High Risk,High
+data/Safe/int_video2_frame000212.jpg,0,Safe,Safe
+data/High/custom_high_risk_rain_0024.jpg,2,High Risk,High
+data/Safe/int_video3_frame004207.jpg,0,Safe,Safe
+data/Moderate/custom_moderate_city_traffic_0030.jpg,1,Moderate Risk,Moderate
+data/Safe/int_video2_frame000472.jpg,0,Safe,Safe
+data/High/54378023-a5fd7aca.jpg,2,High Risk,High
+data/Safe/int_video2_frame000323.jpg,0,Safe,Safe
+data/High/yt_video1_frame001736.jpg,2,High Risk,High
+data/Moderate/yt_video2_frame004540.jpg,1,Moderate Risk,Moderate
+data/Safe/int_video1_frame000609.jpg,0,Safe,Safe
+data/High/frame34536_label.png,2,High Risk,High
+data/High/frame1409_image.jpg,2,High Risk,High
+data/High/4f3d098d-0ee5a695.jpg,2,High Risk,High
+data/Moderate/custom_moderate_city_traffic_0130.jpg,1,Moderate Risk,Moderate
+data/Safe/125671_image.jpg,0,Safe,Safe
+data/High/yt_video3_frame004709.jpg,2,High Risk,High
+data/Safe/000497_image.jpg,0,Safe,Safe
+data/High/a63d1583-8103eb17.jpg,2,High Risk,High
+data/High/88b2655c-2db81e9e.jpg,2,High Risk,High
+data/High/0e3a8902-a8bf931e.jpg,2,High Risk,High
+data/Safe/int_video2_frame000628.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000402.jpg,0,Safe,Safe
+data/Moderate/yt_video1_frame000475.jpg,1,Moderate Risk,Moderate
+data/High/yt_video3_frame013623.jpg,2,High Risk,High
+data/Safe/int_video2_frame000210.jpg,0,Safe,Safe
+data/High/yt_video3_frame001757.jpg,2,High Risk,High
+data/High/custom_high_risk_rain_0021.jpg,2,High Risk,High
+data/High/c933ade8-68159c26.jpg,2,High Risk,High
+data/High/7814206e-b6572c55.jpg,2,High Risk,High
+data/High/8d80ec01-25c60bbf.jpg,2,High Risk,High
+data/High/yt_video3_frame009211.jpg,2,High Risk,High
+data/Safe/int_video1_frame000149.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000142.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000008.jpg,0,Safe,Safe
+data/Safe/custom_high_risk_rain_0153.jpg,0,Safe,Safe
+data/High/yt_video1_frame003309.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0009.jpg,2,High Risk,High
+data/Safe/int_video3_frame005140.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000469.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000506.jpg,0,Safe,Safe
+data/High/79f762d9-3f40e3b6.jpg,2,High Risk,High
+data/High/yt_video3_frame007610.jpg,2,High Risk,High
+data/Safe/int_video3_frame000233.jpg,0,Safe,Safe
+data/High/c7339013-3979b7a2.jpg,2,High Risk,High
+data/High/yt_video2_frame000166.jpg,2,High Risk,High
+data/High/525378_image.jpg,2,High Risk,High
+data/Safe/int_video2_frame000515.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000323.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000357.jpg,0,Safe,Safe
+data/High/yt_video3_frame007007.jpg,2,High Risk,High
+data/Safe/int_video2_frame000181.jpg,0,Safe,Safe
+data/High/yt_video3_frame009356.jpg,2,High Risk,High
+data/Safe/int_video1_frame000438.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000269.jpg,0,Safe,Safe
+data/Safe/int_video3_frame003275.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000286.jpg,0,Safe,Safe
+data/High/c0c63f02-77b9b06d.jpg,2,High Risk,High
+data/Safe/int_video1_frame000331.jpg,0,Safe,Safe
+data/High/32eda2e7-ab8bbc8e.jpg,2,High Risk,High
+data/High/frame6691_label.png,2,High Risk,High
+data/High/yt_video3_frame006975.jpg,2,High Risk,High
+data/High/int_video3_frame002219.jpg,2,High Risk,High
+data/High/0037547_image.jpg,2,High Risk,High
+data/Safe/int_video1_frame000025.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000126.jpg,0,Safe,Safe
+data/High/5177b749-af7d199e.jpg,2,High Risk,High
+data/High/yt_video1_frame001228.jpg,2,High Risk,High
+data/Safe/int_video3_frame001920.jpg,0,Safe,Safe
+data/High/017846_label.png,2,High Risk,High
+data/High/yt_video3_frame009278.jpg,2,High Risk,High
+data/High/0000280_inst_label.png,2,High Risk,High
+data/High/yt_video1_frame003872.jpg,2,High Risk,High
+data/High/yt_video2_frame003974.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0117.jpg,2,High Risk,High
+data/High/168441_image.jpg,2,High Risk,High
+data/High/custom_safe_highway_0149.jpg,2,High Risk,High
+data/Safe/int_video1_frame000108.jpg,0,Safe,Safe
+data/High/3da75143-f35b611c.jpg,2,High Risk,High
+data/High/4d97e3fb-4131de11.jpg,2,High Risk,High
+data/Safe/int_video2_frame000550.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000590.jpg,0,Safe,Safe
+data/Safe/c3cd6c82-21bd6ca4.jpg,0,Safe,Safe
+data/Moderate/yt_video1_frame004507.jpg,1,Moderate Risk,Moderate
+data/Safe/yt_video1_frame000982.jpg,0,Safe,Safe
+data/Safe/int_video3_frame005698.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000668.jpg,0,Safe,Safe
+data/High/yt_video2_frame003325.jpg,2,High Risk,High
+data/High/3b9077f7-7bf18bbe.jpg,2,High Risk,High
+data/Safe/int_video2_frame000039.jpg,0,Safe,Safe
+data/High/frame1364_label.png,2,High Risk,High
+data/Safe/05acab14-e1a73018.jpg,0,Safe,Safe
+data/High/frame5345_inst_label.png,2,High Risk,High
+data/High/yt_video2_frame000458.jpg,2,High Risk,High
+data/Safe/int_video1_frame000362.jpg,0,Safe,Safe
+data/High/yt_video3_frame013122.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0160.jpg,2,High Risk,High
+data/Safe/int_video1_frame000459.jpg,0,Safe,Safe
+data/High/frame17045_inst_label.png,2,High Risk,High
+data/High/frame18930_label.png,2,High Risk,High
+data/High/yt_video2_frame004101.jpg,2,High Risk,High
+data/Safe/int_video2_frame000341.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000202.jpg,0,Safe,Safe
+data/High/yt_video3_frame013629.jpg,2,High Risk,High
+data/High/9d562bf8-042807c5.jpg,2,High Risk,High
+data/High/a9c8091c-c67ba906.jpg,2,High Risk,High
+data/Safe/int_video1_frame000009.jpg,0,Safe,Safe
+data/High/811686_image.jpg,2,High Risk,High
+data/Safe/int_video2_frame000302.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000105.jpg,0,Safe,Safe
+data/High/yt_video3_frame002317.jpg,2,High Risk,High
+data/High/yt_video2_frame004058.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0066.jpg,2,High Risk,High
+data/High/25ba4da8-04946761.jpg,2,High Risk,High
+data/High/yt_video1_frame002510.jpg,2,High Risk,High
+data/High/yt_video3_frame010356.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0093.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0062.jpg,2,High Risk,High
+data/Safe/int_video2_frame000553.jpg,0,Safe,Safe
+data/High/301d46b0-608b7271.jpg,2,High Risk,High
+data/High/yt_video1_frame003239.jpg,2,High Risk,High
+data/Safe/int_video2_frame000159.jpg,0,Safe,Safe
+data/High/91e51935-8d029efd.jpg,2,High Risk,High
+data/High/yt_video3_frame005161.jpg,2,High Risk,High
+data/High/525378_label.png,2,High Risk,High
+data/Safe/int_video3_frame001430.jpg,0,Safe,Safe
+data/Safe/custom_safe_highway_0020.jpg,0,Safe,Safe
+data/High/8baf604a-bac78756.jpg,2,High Risk,High
+data/High/775b73b8-cf0c5d73.jpg,2,High Risk,High
+data/Safe/yt_video2_frame003018.jpg,0,Safe,Safe
+data/High/357164_label.png,2,High Risk,High
+data/High/int_video3_frame003119.jpg,2,High Risk,High
+data/High/5d462a6c-076af053.jpg,2,High Risk,High
+data/High/yt_video3_frame010815.jpg,2,High Risk,High
+data/Safe/int_video1_frame000261.jpg,0,Safe,Safe
+data/High/af5e53ae-cd2e5fa1.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0055.jpg,2,High Risk,High
+data/Safe/yt_video2_frame004605.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000413.jpg,0,Safe,Safe
+data/High/frame41720_image.jpg,2,High Risk,High
+data/Safe/yt_video2_frame004527.jpg,0,Safe,Safe
+data/Safe/int_video3_frame001558.jpg,0,Safe,Safe
+data/High/0010753_image.jpg,2,High Risk,High
+data/Safe/19fdb283-dbdcc690.jpg,0,Safe,Safe
+data/High/yt_video3_frame008807.jpg,2,High Risk,High
+data/High/yt_video2_frame000310.jpg,2,High Risk,High
+data/High/int_video3_frame005392.jpg,2,High Risk,High
+data/High/int_video3_frame002571.jpg,2,High Risk,High
+data/Safe/int_video2_frame000446.jpg,0,Safe,Safe
+data/Safe/int_video3_frame000596.jpg,0,Safe,Safe
+data/High/frame74072_label.png,2,High Risk,High
+data/High/2e04cd1f-c0e9e90a.jpg,2,High Risk,High
+data/Safe/int_video1_frame000002.jpg,0,Safe,Safe
+data/High/yt_video1_frame004257.jpg,2,High Risk,High
+data/High/294e5b65-552ada7b.jpg,2,High Risk,High
+data/High/yt_video1_frame001925.jpg,2,High Risk,High
+data/High/yt_video1_frame000345.jpg,2,High Risk,High
+data/High/yt_video3_frame012941.jpg,2,High Risk,High
+data/Safe/int_video1_frame000221.jpg,0,Safe,Safe
+data/Moderate/int_video1_frame000074.jpg,1,Moderate Risk,Moderate
+data/Safe/yt_video2_frame004732.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000456.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000571.jpg,0,Safe,Safe
+data/Moderate/yt_video1_frame001472.jpg,1,Moderate Risk,Moderate
+data/Safe/int_video3_frame002808.jpg,0,Safe,Safe
+data/Safe/int_video3_frame001059.jpg,0,Safe,Safe
+data/High/5e82662e-e72c0e52.jpg,2,High Risk,High
+data/High/yt_video3_frame010107.jpg,2,High Risk,High
+data/High/yt_video3_frame009942.jpg,2,High Risk,High
+data/Safe/int_video2_frame000115.jpg,0,Safe,Safe
+data/High/yt_video2_frame001922.jpg,2,High Risk,High
+data/High/custom_safe_highway_0034.jpg,2,High Risk,High
+data/High/yt_video3_frame012419.jpg,2,High Risk,High
+data/High/0e16c72f-3a4602b7.jpg,2,High Risk,High
+data/High/custom_high_risk_rain_0101.jpg,2,High Risk,High
+data/Safe/int_video2_frame000438.jpg,0,Safe,Safe
+data/Safe/int_video3_frame004283.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000261.jpg,0,Safe,Safe
+data/High/0ed7817b-e9eda54a.jpg,2,High Risk,High
+data/Safe/int_video3_frame005513.jpg,0,Safe,Safe
+data/High/16805fd6-2b3ae65e.jpg,2,High Risk,High
+data/High/yt_video3_frame009729.jpg,2,High Risk,High
+data/Safe/int_video1_frame000500.jpg,0,Safe,Safe
+data/High/yt_video1_frame004398.jpg,2,High Risk,High
+data/Moderate/custom_safe_highway_0087.jpg,1,Moderate Risk,Moderate
+data/High/599123_label.png,2,High Risk,High
+data/Safe/int_video2_frame000354.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000324.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000516.jpg,0,Safe,Safe
+data/High/aa186d96-e05c20bb.jpg,2,High Risk,High
+data/High/yt_video1_frame001421.jpg,2,High Risk,High
+data/High/int_video3_frame004386.jpg,2,High Risk,High
+data/Safe/int_video2_frame000337.jpg,0,Safe,Safe
+data/High/yt_video1_frame003253.jpg,2,High Risk,High
+data/Safe/int_video3_frame000573.jpg,0,Safe,Safe
+data/Moderate/213995_image.jpg,1,Moderate Risk,Moderate
+data/High/frame0809_inst_label.png,2,High Risk,High
+data/High/int_video3_frame005703.jpg,2,High Risk,High
+data/Safe/int_video1_frame000431.jpg,0,Safe,Safe
+data/High/yt_video3_frame005144.jpg,2,High Risk,High
+data/Safe/int_video3_frame004327.jpg,0,Safe,Safe
+data/High/yt_video1_frame000402.jpg,2,High Risk,High
+data/Safe/yt_video2_frame001415.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000083.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000296.jpg,0,Safe,Safe
+data/High/frame13118_inst_label.png,2,High Risk,High
+data/Moderate/yt_video2_frame002265.jpg,1,Moderate Risk,Moderate
+data/High/custom_high_risk_rain_0090.jpg,2,High Risk,High
+data/Safe/int_video2_frame000555.jpg,0,Safe,Safe
+data/Safe/int_video3_frame003512.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000259.jpg,0,Safe,Safe
+data/High/custom_moderate_city_traffic_0105.jpg,2,High Risk,High
+data/High/0019737_image.jpg,2,High Risk,High
+data/High/yt_video2_frame003601.jpg,2,High Risk,High
+data/Safe/int_video2_frame000170.jpg,0,Safe,Safe
+data/High/custom_high_risk_rain_0048.jpg,2,High Risk,High
+data/Safe/int_video1_frame000173.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000581.jpg,0,Safe,Safe
+data/High/1639f49e-d216bc9a.jpg,2,High Risk,High
+data/High/frame80400_inst_label.png,2,High Risk,High
+data/Safe/int_video2_frame000379.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000467.jpg,0,Safe,Safe
+data/High/3c7bc41c-bd4d5f2e.jpg,2,High Risk,High
+data/High/1d3741a3-c1964570.jpg,2,High Risk,High
+data/Safe/int_video1_frame000428.jpg,0,Safe,Safe
+data/High/frame11640_image.jpg,2,High Risk,High
+data/Safe/int_video1_frame000240.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000510.jpg,0,Safe,Safe
+data/High/frame8219_inst_label.png,2,High Risk,High
+data/Safe/int_video1_frame000027.jpg,0,Safe,Safe
+data/High/4a9abb84-43306fbc.jpg,2,High Risk,High
+data/High/05f8b8b5-eb186af1.jpg,2,High Risk,High
+data/High/b62b4989-3b60bb9c.jpg,2,High Risk,High
+data/High/yt_video1_frame000348.jpg,2,High Risk,High
+data/Safe/int_video2_frame000551.jpg,0,Safe,Safe
+data/High/b4253085-3de357a1.jpg,2,High Risk,High
+data/High/05da04b7-16ce6b63.jpg,2,High Risk,High
+data/High/yt_video3_frame005821.jpg,2,High Risk,High
+data/High/yt_video1_frame004442.jpg,2,High Risk,High
+data/Safe/int_video2_frame000638.jpg,0,Safe,Safe
+data/High/22a06018-5416e80b.jpg,2,High Risk,High
+data/Safe/yt_video2_frame004736.jpg,0,Safe,Safe
+data/High/468e751b-b3c493f1.jpg,2,High Risk,High
+data/Safe/int_video1_frame000524.jpg,0,Safe,Safe
+data/High/yt_video2_frame000270.jpg,2,High Risk,High
+data/High/yt_video1_frame001653.jpg,2,High Risk,High
+data/High/int_video3_frame001188.jpg,2,High Risk,High
+data/High/int_video3_frame001210.jpg,2,High Risk,High
+data/High/yt_video1_frame004370.jpg,2,High Risk,High
+data/Safe/int_video1_frame000365.jpg,0,Safe,Safe
+data/High/13041e31-6d5e3c54.jpg,2,High Risk,High
+data/High/af59a3e5-80663470.jpg,2,High Risk,High
+data/Safe/yt_video1_frame001178.jpg,0,Safe,Safe
+data/High/yt_video3_frame013363.jpg,2,High Risk,High
+data/High/yt_video3_frame009301.jpg,2,High Risk,High
+data/Safe/int_video1_frame000397.jpg,0,Safe,Safe
+data/High/yt_video2_frame003419.jpg,2,High Risk,High
+data/High/yt_video1_frame002500.jpg,2,High Risk,High
+data/High/frame78182_inst_label.png,2,High Risk,High
+data/Safe/int_video2_frame000513.jpg,0,Safe,Safe
+data/High/custom_high_risk_rain_0007.jpg,2,High Risk,High
+data/High/yt_video3_frame012086.jpg,2,High Risk,High
+data/High/int_video3_frame001718.jpg,2,High Risk,High
+data/High/a2b1ab28-8b96ce80.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0031.jpg,2,High Risk,High
+data/Safe/yt_video2_frame002620.jpg,0,Safe,Safe
+data/High/78d02099-23b537bf.jpg,2,High Risk,High
+data/Moderate/yt_video3_frame001684.jpg,1,Moderate Risk,Moderate
+data/High/4e74f086-a3147c75.jpg,2,High Risk,High
+data/High/yt_video3_frame008520.jpg,2,High Risk,High
+data/High/1b7a947c-7bc20ef4.jpg,2,High Risk,High
+data/Safe/int_video3_frame004458.jpg,0,Safe,Safe
+data/High/9f68196b-b46514e9.jpg,2,High Risk,High
+data/Safe/yt_video1_frame002569.jpg,0,Safe,Safe
+data/High/yt_video3_frame010341.jpg,2,High Risk,High
+data/High/0001340_image.jpg,2,High Risk,High
+data/Safe/yt_video1_frame003893.jpg,0,Safe,Safe
+data/High/557c16ec-4c8ce442.jpg,2,High Risk,High
+data/High/a685dd01-83782df1.jpg,2,High Risk,High
+data/High/138263_label.png,2,High Risk,High
+data/High/yt_video3_frame002394.jpg,2,High Risk,High
+data/Safe/int_video1_frame000509.jpg,0,Safe,Safe
+data/High/328cdc70-6b9bb32c.jpg,2,High Risk,High
+data/High/yt_video3_frame011590.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0141.jpg,2,High Risk,High
+data/High/0026172_image.jpg,2,High Risk,High
+data/Safe/yt_video1_frame000558.jpg,0,Safe,Safe
+data/Safe/int_video3_frame000715.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000238.jpg,0,Safe,Safe
+data/Safe/int_video3_frame000603.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000052.jpg,0,Safe,Safe
+data/High/yt_video3_frame009799.jpg,2,High Risk,High
+data/High/5758cf82-efdf8cab.jpg,2,High Risk,High
+data/High/318385_inst_label.png,2,High Risk,High
+data/Safe/038935_image.jpg,0,Safe,Safe
+data/High/yt_video1_frame000381.jpg,2,High Risk,High
+data/Safe/yt_video2_frame002927.jpg,0,Safe,Safe
+data/High/yt_video1_frame000447.jpg,2,High Risk,High
+data/High/440ea563-977f01f5.jpg,2,High Risk,High
+data/High/684f1a2c-9bc309b1.jpg,2,High Risk,High
+data/High/266964_image.jpg,2,High Risk,High
+data/High/007178_inst_label.png,2,High Risk,High
+data/High/0003365_label.png,2,High Risk,High
+data/Safe/a5759a1d-b917bcaa.jpg,0,Safe,Safe
+data/Safe/int_video3_frame003138.jpg,0,Safe,Safe
+data/High/87a846ee-dbfe2370.jpg,2,High Risk,High
+data/Safe/int_video2_frame000048.jpg,0,Safe,Safe
+data/Safe/aaa25452-b01d9f04.jpg,0,Safe,Safe
+data/High/int_video3_frame002422.jpg,2,High Risk,High
+data/Safe/int_video2_frame000222.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000547.jpg,0,Safe,Safe
+data/Safe/yt_video1_frame001108.jpg,0,Safe,Safe
+data/Moderate/08355b53-04fdd656.jpg,1,Moderate Risk,Moderate
+data/High/yt_video3_frame004314.jpg,2,High Risk,High
+data/High/55343d85-f386448f.jpg,2,High Risk,High
+data/High/c576ccff-0a51ae4b.jpg,2,High Risk,High
+data/High/55adc0cf-358e683e.jpg,2,High Risk,High
+data/High/frame31562_inst_label.png,2,High Risk,High
+data/High/b095d7d7-0b683c5b.jpg,2,High Risk,High
+data/Safe/int_video1_frame000417.jpg,0,Safe,Safe
+data/High/yt_video3_frame011582.jpg,2,High Risk,High
+data/High/yt_video2_frame003707.jpg,2,High Risk,High
+data/High/yt_video3_frame007984.jpg,2,High Risk,High
+data/Safe/87e78191-51478b69.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000680.jpg,0,Safe,Safe
+data/High/304cd8b3-27438394.jpg,2,High Risk,High
+data/Safe/int_video2_frame000230.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000495.jpg,0,Safe,Safe
+data/High/34e293f8-7a0e1dab.jpg,2,High Risk,High
+data/Safe/int_video2_frame000118.jpg,0,Safe,Safe
+data/High/a5a31acc-47731726.jpg,2,High Risk,High
+data/Safe/int_video2_frame000310.jpg,0,Safe,Safe
+data/High/yt_video3_frame000102.jpg,2,High Risk,High
+data/High/int_video3_frame002165.jpg,2,High Risk,High
+data/High/yt_video1_frame001483.jpg,2,High Risk,High
+data/Safe/int_video1_frame000471.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000398.jpg,0,Safe,Safe
+data/High/yt_video2_frame000671.jpg,2,High Risk,High
+data/High/frame76310_image.jpg,2,High Risk,High
+data/Safe/int_video2_frame000580.jpg,0,Safe,Safe
+data/High/yt_video1_frame000429.jpg,2,High Risk,High
+data/High/yt_video3_frame001980.jpg,2,High Risk,High
+data/Safe/int_video1_frame000567.jpg,0,Safe,Safe
+data/Safe/aee67c68-be69eda9.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000487.jpg,0,Safe,Safe
+data/High/0e4e23dd-3a4d3d72.jpg,2,High Risk,High
+data/High/yt_video2_frame003411.jpg,2,High Risk,High
+data/Safe/int_video1_frame000030.jpg,0,Safe,Safe
+data/High/535a9294-347447e3.jpg,2,High Risk,High
+data/High/yt_video1_frame000227.jpg,2,High Risk,High
+data/High/yt_video3_frame001609.jpg,2,High Risk,High
+data/High/3335c6f0-fd7cc3aa.jpg,2,High Risk,High
+data/High/yt_video1_frame002357.jpg,2,High Risk,High
+data/High/int_video3_frame003610.jpg,2,High Risk,High
+data/High/yt_video1_frame003765.jpg,2,High Risk,High
+data/High/yt_video1_frame003576.jpg,2,High Risk,High
+data/High/yt_video1_frame000143.jpg,2,High Risk,High
+data/High/b77d1f5b-db4b275d.jpg,2,High Risk,High
+data/High/0027844_label.png,2,High Risk,High
+data/High/2d77560d-d367e688.jpg,2,High Risk,High
+data/High/int_video3_frame005597.jpg,2,High Risk,High
+data/Moderate/yt_video2_frame001491.jpg,1,Moderate Risk,Moderate
+data/High/yt_video1_frame003829.jpg,2,High Risk,High
+data/High/frame36826_label.png,2,High Risk,High
+data/High/634443_label.png,2,High Risk,High
+data/High/yt_video1_frame003296.jpg,2,High Risk,High
+data/Safe/int_video1_frame000290.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000184.jpg,0,Safe,Safe
+data/High/011797_image.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0022.jpg,2,High Risk,High
+data/High/99bfb995-3c119721.jpg,2,High Risk,High
+data/High/aca517d5-9de927a5.jpg,2,High Risk,High
+data/Safe/yt_video3_frame001280.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000012.jpg,0,Safe,Safe
+data/High/yt_video1_frame002379.jpg,2,High Risk,High
+data/High/yt_video1_frame001698.jpg,2,High Risk,High
+data/High/917053_image.jpg,2,High Risk,High
+data/Safe/custom_high_risk_rain_0135.jpg,0,Safe,Safe
+data/High/281a8cc4-89b5ca4a.jpg,2,High Risk,High
+data/Safe/int_video2_frame000215.jpg,0,Safe,Safe
+data/High/4e0264d2-57b64f6c.jpg,2,High Risk,High
+data/Safe/int_video2_frame000463.jpg,0,Safe,Safe
+data/High/custom_high_risk_rain_0087.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0125.jpg,2,High Risk,High
+data/Moderate/yt_video2_frame004283.jpg,1,Moderate Risk,Moderate
+data/Moderate/custom_safe_highway_0118.jpg,1,Moderate Risk,Moderate
+data/High/573696_label.png,2,High Risk,High
+data/High/7b7c3efe-981955e5.jpg,2,High Risk,High
+data/High/yt_video2_frame003631.jpg,2,High Risk,High
+data/High/649255_image.jpg,2,High Risk,High
+data/High/8cf4c763-7cf0a96f.jpg,2,High Risk,High
+data/Safe/int_video1_frame000545.jpg,0,Safe,Safe
+data/High/8c763a00-3d3e41d6.jpg,2,High Risk,High
+data/High/yt_video1_frame003735.jpg,2,High Risk,High
+data/Safe/int_video1_frame000273.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000047.jpg,0,Safe,Safe
+data/High/custom_safe_highway_0033.jpg,2,High Risk,High
+data/High/30d7588c-6728901e.jpg,2,High Risk,High
+data/High/yt_video3_frame012688.jpg,2,High Risk,High
+data/High/1d2eeabb-70505067.jpg,2,High Risk,High
+data/Safe/int_video1_frame000594.jpg,0,Safe,Safe
+data/Safe/24e0b338-5f3058c2.jpg,0,Safe,Safe
+data/High/635434_image.jpg,2,High Risk,High
+data/High/yt_video3_frame013528.jpg,2,High Risk,High
+data/Safe/int_video2_frame000065.jpg,0,Safe,Safe
+data/High/int_video3_frame000438.jpg,2,High Risk,High
+data/High/yt_video2_frame002055.jpg,2,High Risk,High
+data/High/0036971_inst_label.png,2,High Risk,High
+data/High/c7c5969b-c0899dbc.jpg,2,High Risk,High
+data/Safe/int_video2_frame000032.jpg,0,Safe,Safe
+data/High/25383dc7-38877a02.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0123.jpg,2,High Risk,High
+data/Safe/int_video2_frame000132.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000435.jpg,0,Safe,Safe
+data/High/yt_video3_frame007746.jpg,2,High Risk,High
+data/Safe/int_video3_frame004257.jpg,0,Safe,Safe
+data/Moderate/yt_video2_frame003275.jpg,1,Moderate Risk,Moderate
+data/High/4147ffb6-fca63463.jpg,2,High Risk,High
+data/High/custom_high_risk_rain_0032.jpg,2,High Risk,High
+data/High/983bfbb5-1861a3a8.jpg,2,High Risk,High
+data/High/yt_video1_frame000973.jpg,2,High Risk,High
+data/Safe/int_video3_frame004544.jpg,0,Safe,Safe
+data/High/int_video3_frame000105.jpg,2,High Risk,High
+data/High/98f6f3b6-cf9d1a16.jpg,2,High Risk,High
+data/High/frame2503_label.png,2,High Risk,High
+data/Safe/custom_high_risk_rain_0117.jpg,0,Safe,Safe
+data/High/260366_image.jpg,2,High Risk,High
+data/Safe/int_video1_frame000418.jpg,0,Safe,Safe
+data/Moderate/yt_video2_frame001095.jpg,1,Moderate Risk,Moderate
+data/High/int_video3_frame003728.jpg,2,High Risk,High
+data/High/yt_video1_frame003828.jpg,2,High Risk,High
+data/Safe/int_video1_frame000125.jpg,0,Safe,Safe
+data/High/yt_video3_frame012750.jpg,2,High Risk,High
+data/High/custom_high_risk_rain_0094.jpg,2,High Risk,High
+data/Safe/int_video2_frame000271.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000196.jpg,0,Safe,Safe
+data/High/frame33274_label.png,2,High Risk,High
+data/High/yt_video3_frame002246.jpg,2,High Risk,High
+data/High/209186_inst_label.png,2,High Risk,High
+data/Safe/int_video2_frame000428.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000581.jpg,0,Safe,Safe
+data/High/2b8380cf-162415de.jpg,2,High Risk,High
+data/High/a2cac0a3-2b228d9e.jpg,2,High Risk,High
+data/High/21e38b5c-32929bb0.jpg,2,High Risk,High
+data/High/int_video3_frame003358.jpg,2,High Risk,High
+data/High/frame2108_image.jpg,2,High Risk,High
+data/High/frame0200_inst_label.png,2,High Risk,High
+data/Safe/int_video2_frame000263.jpg,0,Safe,Safe
+data/High/002638_inst_label.png,2,High Risk,High
+data/High/yt_video3_frame008420.jpg,2,High Risk,High
+data/High/922243_image.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0155.jpg,2,High Risk,High
+data/High/int_video3_frame003898.jpg,2,High Risk,High
+data/High/430763_inst_label.png,2,High Risk,High
+data/Safe/int_video2_frame000178.jpg,0,Safe,Safe
+data/Moderate/yt_video1_frame003985.jpg,1,Moderate Risk,Moderate
+data/Safe/int_video2_frame000168.jpg,0,Safe,Safe
+data/Safe/int_video3_frame001306.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000214.jpg,0,Safe,Safe
+data/High/yt_video2_frame004704.jpg,2,High Risk,High
+data/Safe/yt_video2_frame002293.jpg,0,Safe,Safe
+data/Moderate/9cb8a2d4-2af3c14d.jpg,1,Moderate Risk,Moderate
+data/High/yt_video2_frame000487.jpg,2,High Risk,High
+data/Safe/yt_video2_frame004482.jpg,0,Safe,Safe
+data/High/5b86c8ea-f982c987.jpg,2,High Risk,High
+data/Safe/int_video2_frame000268.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000280.jpg,0,Safe,Safe
+data/High/996846_image.jpg,2,High Risk,High
+data/High/ae75c09b-61da0fbb.jpg,2,High Risk,High
+data/High/int_video3_frame002172.jpg,2,High Risk,High
+data/Safe/int_video1_frame000514.jpg,0,Safe,Safe
+data/High/custom_high_risk_rain_0103.jpg,2,High Risk,High
+data/Safe/int_video2_frame000173.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000234.jpg,0,Safe,Safe
+data/High/becfc708-eaf36a96.jpg,2,High Risk,High
+data/High/yt_video1_frame001567.jpg,2,High Risk,High
+data/High/frame3339_image.jpg,2,High Risk,High
+data/Safe/yt_video2_frame002113.jpg,0,Safe,Safe
+data/High/747a6b08-814c4281.jpg,2,High Risk,High
+data/High/0014430_inst_label.png,2,High Risk,High
+data/High/custom_moderate_city_traffic_0085.jpg,2,High Risk,High
+data/High/yt_video1_frame001683.jpg,2,High Risk,High
+data/High/frame11408_image.jpg,2,High Risk,High
+data/High/4b74eed3-94815f4d.jpg,2,High Risk,High
+data/High/017127_inst_label.png,2,High Risk,High
+data/Safe/int_video2_frame000528.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000512.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000034.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000526.jpg,0,Safe,Safe
+data/High/yt_video1_frame002891.jpg,2,High Risk,High
+data/High/027279_label.png,2,High Risk,High
+data/High/frame5184_label.png,2,High Risk,High
+data/High/yt_video1_frame001299.jpg,2,High Risk,High
+data/High/b2194b15-1825056a.jpg,2,High Risk,High
+data/High/frame11618_image.jpg,2,High Risk,High
+data/Safe/int_video1_frame000601.jpg,0,Safe,Safe
+data/High/31c6e31c-b6e497af.jpg,2,High Risk,High
+data/Safe/int_video2_frame000099.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000275.jpg,0,Safe,Safe
+data/High/bedbeb83-fe19f8c6.jpg,2,High Risk,High
+data/Safe/int_video2_frame000208.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000381.jpg,0,Safe,Safe
+data/High/yt_video2_frame000586.jpg,2,High Risk,High
+data/High/2726dcc0-8ee7ed44.jpg,2,High Risk,High
+data/High/frame6818_label.png,2,High Risk,High
+data/High/frame14917_label.png,2,High Risk,High
+data/High/frame5719_inst_label.png,2,High Risk,High
+data/High/yt_video2_frame000237.jpg,2,High Risk,High
+data/High/903127_label.png,2,High Risk,High
+data/High/yt_video1_frame002083.jpg,2,High Risk,High
+data/Safe/int_video3_frame004932.jpg,0,Safe,Safe
+data/High/yt_video1_frame004101.jpg,2,High Risk,High
+data/High/yt_video3_frame005478.jpg,2,High Risk,High
+data/High/be18f4e6-a2770590.jpg,2,High Risk,High
+data/High/yt_video2_frame003362.jpg,2,High Risk,High
+data/High/yt_video3_frame012558.jpg,2,High Risk,High
+data/Safe/int_video2_frame000612.jpg,0,Safe,Safe
+data/High/yt_video3_frame000878.jpg,2,High Risk,High
+data/High/2ce6b94f-20deca48.jpg,2,High Risk,High
+data/High/int_video3_frame002200.jpg,2,High Risk,High
+data/High/yt_video3_frame011140.jpg,2,High Risk,High
+data/Moderate/yt_video1_frame003912.jpg,1,Moderate Risk,Moderate
+data/High/yt_video3_frame011644.jpg,2,High Risk,High
+data/Safe/yt_video2_frame001410.jpg,0,Safe,Safe
+data/High/6d8beed6-bc19880b.jpg,2,High Risk,High
+data/Safe/int_video1_frame000086.jpg,0,Safe,Safe
+data/Safe/int_video3_frame000640.jpg,0,Safe,Safe
+data/High/custom_moderate_city_traffic_0151.jpg,2,High Risk,High
+data/High/yt_video1_frame004397.jpg,2,High Risk,High
+data/High/custom_safe_highway_0162.jpg,2,High Risk,High
+data/High/5ba220fa-bae040e1.jpg,2,High Risk,High
+data/High/711957_inst_label.png,2,High Risk,High
+data/Moderate/yt_video1_frame000214.jpg,1,Moderate Risk,Moderate
+data/Safe/int_video2_frame000020.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000282.jpg,0,Safe,Safe
+data/Safe/yt_video2_frame002581.jpg,0,Safe,Safe
+data/Moderate/yt_video1_frame003573.jpg,1,Moderate Risk,Moderate
+data/High/5c55b26c-86edb286.jpg,2,High Risk,High
+data/High/custom_high_risk_rain_0086.jpg,2,High Risk,High
+data/Safe/yt_video2_frame001740.jpg,0,Safe,Safe
+data/High/yt_video3_frame009281.jpg,2,High Risk,High
+data/High/443c4d3b-687e7621.jpg,2,High Risk,High
+data/Safe/int_video2_frame000664.jpg,0,Safe,Safe
+data/Safe/int_video3_frame000812.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000318.jpg,0,Safe,Safe
+data/High/021791_inst_label.png,2,High Risk,High
+data/High/yt_video2_frame000312.jpg,2,High Risk,High
+data/High/696836_label.png,2,High Risk,High
+data/High/yt_video1_frame002591.jpg,2,High Risk,High
+data/High/0001055_inst_label.png,2,High Risk,High
+data/Moderate/custom_moderate_city_traffic_0035.jpg,1,Moderate Risk,Moderate
+data/Safe/int_video1_frame000180.jpg,0,Safe,Safe
+data/High/yt_video3_frame013822.jpg,2,High Risk,High
+data/High/751de72a-7bea4762.jpg,2,High Risk,High
+data/Safe/int_video3_frame000813.jpg,0,Safe,Safe
+data/Moderate/yt_video1_frame003193.jpg,1,Moderate Risk,Moderate
+data/High/yt_video3_frame012152.jpg,2,High Risk,High
+data/Safe/026343_image.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000163.jpg,0,Safe,Safe
+data/High/frame4565_inst_label.png,2,High Risk,High
+data/High/26ea5990-0b161aa6.jpg,2,High Risk,High
+data/High/yt_video3_frame002025.jpg,2,High Risk,High
+data/High/8e305b08-391867a4.jpg,2,High Risk,High
+data/High/frame7434_inst_label.png,2,High Risk,High
+data/High/56640038-968566dc.jpg,2,High Risk,High
+data/Moderate/yt_video1_frame002522.jpg,1,Moderate Risk,Moderate
+data/High/yt_video3_frame007356.jpg,2,High Risk,High
+data/High/yt_video3_frame003203.jpg,2,High Risk,High
+data/High/int_video3_frame002194.jpg,2,High Risk,High
+data/High/ca00540c-261a3e99.jpg,2,High Risk,High
+data/Safe/int_video1_frame000090.jpg,0,Safe,Safe
+data/High/int_video3_frame005018.jpg,2,High Risk,High
+data/Safe/int_video1_frame000016.jpg,0,Safe,Safe
+data/High/42d197eb-03a62125.jpg,2,High Risk,High
+data/High/yt_video3_frame011003.jpg,2,High Risk,High
+data/High/24894c5f-9db6a7c2.jpg,2,High Risk,High
+data/High/yt_video1_frame000876.jpg,2,High Risk,High
+data/High/93dabaab-17a29d71.jpg,2,High Risk,High
+data/High/019604_inst_label.png,2,High Risk,High
+data/Safe/int_video1_frame000469.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000297.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000479.jpg,0,Safe,Safe
+data/High/3be9c61f-072c6301.jpg,2,High Risk,High
+data/High/529762d9-240c2be2.jpg,2,High Risk,High
+data/Safe/yt_video1_frame000608.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000530.jpg,0,Safe,Safe
+data/High/1b1e2a5f-c996218b.jpg,2,High Risk,High
+data/High/96929662-36778607.jpg,2,High Risk,High
+data/High/899943_label.png,2,High Risk,High
+data/Safe/int_video2_frame000622.jpg,0,Safe,Safe
+data/High/custom_safe_highway_0127.jpg,2,High Risk,High
+data/Moderate/yt_video2_frame002999.jpg,1,Moderate Risk,Moderate
+data/Safe/0bc195d8-625d8d27.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000121.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000133.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000559.jpg,0,Safe,Safe
+data/High/custom_safe_highway_0145.jpg,2,High Risk,High
+data/Moderate/int_video3_frame000307.jpg,1,Moderate Risk,Moderate
+data/High/yt_video2_frame000001.jpg,2,High Risk,High
+data/Safe/int_video2_frame000175.jpg,0,Safe,Safe
+data/High/ada033b0-593176e4.jpg,2,High Risk,High
+data/High/frame18444_label.png,2,High Risk,High
+data/High/65008fda-3993d520.jpg,2,High Risk,High
+data/Safe/int_video3_frame003831.jpg,0,Safe,Safe
+data/High/frame1305_image.jpg,2,High Risk,High
+data/High/int_video3_frame003391.jpg,2,High Risk,High
+data/High/yt_video2_frame000757.jpg,2,High Risk,High
+data/High/yt_video3_frame000527.jpg,2,High Risk,High
+data/High/yt_video2_frame001822.jpg,2,High Risk,High
+data/High/yt_video2_frame004429.jpg,2,High Risk,High
+data/High/frame1722_image.jpg,2,High Risk,High
+data/Safe/int_video1_frame000042.jpg,0,Safe,Safe
+data/Moderate/custom_safe_highway_0112.jpg,1,Moderate Risk,Moderate
+data/High/yt_video3_frame006224.jpg,2,High Risk,High
+data/High/frame9425_inst_label.png,2,High Risk,High
+data/High/658903_image.jpg,2,High Risk,High
+data/High/int_video3_frame000125.jpg,2,High Risk,High
+data/High/123572_inst_label.png,2,High Risk,High
+data/Safe/int_video1_frame000291.jpg,0,Safe,Safe
+data/High/12cf075a-f9054e11.jpg,2,High Risk,High
+data/High/yt_video2_frame000942.jpg,2,High Risk,High
+data/High/custom_safe_highway_0016.jpg,2,High Risk,High
+data/High/740783_label.png,2,High Risk,High
+data/Safe/135874_image.jpg,0,Safe,Safe
+data/Safe/int_video3_frame002262.jpg,0,Safe,Safe
+data/Safe/int_video3_frame003134.jpg,0,Safe,Safe
+data/High/yt_video2_frame000298.jpg,2,High Risk,High
+data/High/int_video3_frame004368.jpg,2,High Risk,High
+data/High/yt_video2_frame004179.jpg,2,High Risk,High
+data/High/yt_video1_frame004378.jpg,2,High Risk,High
+data/High/178400_inst_label.png,2,High Risk,High
+data/Safe/int_video2_frame000671.jpg,0,Safe,Safe
+data/High/frame9032_inst_label.png,2,High Risk,High
+data/High/205d934f-a19d76ab.jpg,2,High Risk,High
+data/Moderate/yt_video2_frame001898.jpg,1,Moderate Risk,Moderate
+data/Safe/custom_moderate_city_traffic_0113.jpg,0,Safe,Safe
+data/High/4a438690-ef5a71e1.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0051.jpg,2,High Risk,High
+data/High/yt_video1_frame002021.jpg,2,High Risk,High
+data/High/0423e13f-ec6493f9.jpg,2,High Risk,High
+data/High/416f06e2-836b710b.jpg,2,High Risk,High
+data/High/int_video3_frame000136.jpg,2,High Risk,High
+data/Safe/int_video2_frame000353.jpg,0,Safe,Safe
+data/High/828e24b9-9008fce6.jpg,2,High Risk,High
+data/High/a6612c54-e18f0232.jpg,2,High Risk,High
+data/High/yt_video2_frame001801.jpg,2,High Risk,High
+data/High/int_video3_frame005680.jpg,2,High Risk,High
+data/High/custom_high_risk_rain_0142.jpg,2,High Risk,High
+data/High/custom_safe_highway_0166.jpg,2,High Risk,High
+data/Safe/int_video1_frame000407.jpg,0,Safe,Safe
+data/High/int_video3_frame004811.jpg,2,High Risk,High
+data/Safe/int_video3_frame005198.jpg,0,Safe,Safe
+data/High/frame2451_label.png,2,High Risk,High
+data/Safe/int_video2_frame000071.jpg,0,Safe,Safe
+data/High/99f88fba-d71ce21c.jpg,2,High Risk,High
+data/Safe/int_video1_frame000424.jpg,0,Safe,Safe
+data/Moderate/yt_video2_frame004295.jpg,1,Moderate Risk,Moderate
+data/Moderate/yt_video2_frame004218.jpg,1,Moderate Risk,Moderate
+data/High/yt_video1_frame002738.jpg,2,High Risk,High
+data/High/79657fb3-f02641ea.jpg,2,High Risk,High
+data/High/692692_inst_label.png,2,High Risk,High
+data/Safe/yt_video1_frame003897.jpg,0,Safe,Safe
+data/High/yt_video1_frame000105.jpg,2,High Risk,High
+data/High/c938658b-62746b31.jpg,2,High Risk,High
+data/Safe/488582_image.jpg,0,Safe,Safe
+data/High/int_video3_frame000184.jpg,2,High Risk,High
+data/High/yt_video1_frame003400.jpg,2,High Risk,High
+data/Safe/int_video3_frame004719.jpg,0,Safe,Safe
+data/Safe/int_video3_frame001906.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000336.jpg,0,Safe,Safe
+data/High/yt_video2_frame003610.jpg,2,High Risk,High
+data/Safe/int_video1_frame000554.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000429.jpg,0,Safe,Safe
+data/High/yt_video3_frame013778.jpg,2,High Risk,High
+data/High/yt_video3_frame008051.jpg,2,High Risk,High
+data/Safe/yt_video2_frame001391.jpg,0,Safe,Safe
+data/High/yt_video2_frame002008.jpg,2,High Risk,High
+data/High/92dd9a55-99037ad9.jpg,2,High Risk,High
+data/Moderate/1f13032d-547b0157.jpg,1,Moderate Risk,Moderate
+data/High/yt_video1_frame001859.jpg,2,High Risk,High
+data/Safe/int_video1_frame000360.jpg,0,Safe,Safe
+data/High/yt_video2_frame002891.jpg,2,High Risk,High
+data/High/yt_video3_frame012643.jpg,2,High Risk,High
+data/High/yt_video2_frame000565.jpg,2,High Risk,High
+data/High/yt_video3_frame009180.jpg,2,High Risk,High
+data/High/692692_image.jpg,2,High Risk,High
+data/High/24c42a84-5635b020.jpg,2,High Risk,High
+data/High/yt_video3_frame007954.jpg,2,High Risk,High
+data/High/ba510a80-f9582aea.jpg,2,High Risk,High
+data/Safe/int_video3_frame000707.jpg,0,Safe,Safe
+data/High/48421180-3d32cf06.jpg,2,High Risk,High
+data/Moderate/yt_video3_frame002657.jpg,1,Moderate Risk,Moderate
+data/High/frame3698_inst_label.png,2,High Risk,High
+data/High/yt_video2_frame001061.jpg,2,High Risk,High
+data/High/frame0682_label.png,2,High Risk,High
+data/High/a04fd28c-89353855.jpg,2,High Risk,High
+data/High/frame15457_inst_label.png,2,High Risk,High
+data/Safe/custom_safe_highway_0089.jpg,0,Safe,Safe
+data/High/9261353c-2ea1fbf5.jpg,2,High Risk,High
+data/Safe/513939_image.jpg,0,Safe,Safe
+data/High/frame0719_image.jpg,2,High Risk,High
+data/Safe/yt_video2_frame003952.jpg,0,Safe,Safe
+data/High/custom_high_risk_rain_0012.jpg,2,High Risk,High
+data/Safe/int_video2_frame000586.jpg,0,Safe,Safe
+data/High/811686_inst_label.png,2,High Risk,High
+data/Moderate/yt_video2_frame004211.jpg,1,Moderate Risk,Moderate
+data/High/yt_video3_frame012178.jpg,2,High Risk,High
+data/Safe/yt_video3_frame000300.jpg,0,Safe,Safe
+data/High/729f936b-a9fdc0fb.jpg,2,High Risk,High
+data/Safe/int_video1_frame000158.jpg,0,Safe,Safe
+data/High/yt_video3_frame005579.jpg,2,High Risk,High
+data/High/c3f50821-ff9823a2.jpg,2,High Risk,High
+data/High/943609_label.png,2,High Risk,High
+data/Safe/int_video3_frame000345.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000448.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000375.jpg,0,Safe,Safe
+data/High/662556_image.jpg,2,High Risk,High
+data/Safe/int_video2_frame000425.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000535.jpg,0,Safe,Safe
+data/Safe/27fbbb54-22542b09.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000229.jpg,0,Safe,Safe
+data/High/907924_label.png,2,High Risk,High
+data/High/yt_video1_frame001241.jpg,2,High Risk,High
+data/Safe/yt_video2_frame001963.jpg,0,Safe,Safe
+data/High/custom_moderate_city_traffic_0148.jpg,2,High Risk,High
+data/High/yt_video1_frame002657.jpg,2,High Risk,High
+data/Safe/int_video1_frame000301.jpg,0,Safe,Safe
+data/High/int_video3_frame001796.jpg,2,High Risk,High
+data/High/frame0144_inst_label.png,2,High Risk,High
+data/High/6430ab04-76b67831.jpg,2,High Risk,High
+data/High/0002331_image.jpg,2,High Risk,High
+data/High/66644eeb-4630ca80.jpg,2,High Risk,High
+data/High/0cc71303-4a16481d.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0026.jpg,2,High Risk,High
+data/High/41b176a3-125c15aa.jpg,2,High Risk,High
+data/Safe/yt_video3_frame001131.jpg,0,Safe,Safe
+data/High/8439fd61-9e4dd502.jpg,2,High Risk,High
+data/Safe/int_video2_frame000146.jpg,0,Safe,Safe
+data/High/yt_video2_frame000137.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0056.jpg,2,High Risk,High
+data/Safe/int_video1_frame000518.jpg,0,Safe,Safe
+data/Safe/yt_video2_frame001895.jpg,0,Safe,Safe
+data/High/frame1898_inst_label.png,2,High Risk,High
+data/High/int_video3_frame000127.jpg,2,High Risk,High
+data/High/617686_inst_label.png,2,High Risk,High
+data/High/0bc4a672-7ab359c4.jpg,2,High Risk,High
+data/Safe/int_video1_frame000155.jpg,0,Safe,Safe
+data/High/2b0cf575-b5684017.jpg,2,High Risk,High
+data/Safe/int_video1_frame000267.jpg,0,Safe,Safe
+data/High/yt_video2_frame003276.jpg,2,High Risk,High
+data/High/yt_video3_frame010504.jpg,2,High Risk,High
+data/Safe/frame41817_image.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000567.jpg,0,Safe,Safe
+data/Safe/yt_video2_frame004375.jpg,0,Safe,Safe
+data/High/yt_video2_frame000240.jpg,2,High Risk,High
+data/Safe/40b3f9eb-dfe2b2e8.jpg,0,Safe,Safe
+data/High/799360_inst_label.png,2,High Risk,High
+data/High/yt_video2_frame000196.jpg,2,High Risk,High
+data/Safe/int_video3_frame001690.jpg,0,Safe,Safe
+data/High/575cf532-2082bd1d.jpg,2,High Risk,High
+data/High/int_video3_frame003694.jpg,2,High Risk,High
+data/Safe/int_video2_frame000587.jpg,0,Safe,Safe
+data/High/yt_video1_frame002700.jpg,2,High Risk,High
+data/High/yt_video3_frame001424.jpg,2,High Risk,High
+data/High/603456_inst_label.png,2,High Risk,High
+data/Safe/int_video3_frame000650.jpg,0,Safe,Safe
+data/High/custom_high_risk_rain_0036.jpg,2,High Risk,High
+data/High/int_video3_frame000989.jpg,2,High Risk,High
+data/High/4cdef661-7e33020f.jpg,2,High Risk,High
+data/High/yt_video2_frame002298.jpg,2,High Risk,High
+data/High/yt_video3_frame004450.jpg,2,High Risk,High
+data/Safe/int_video1_frame000485.jpg,0,Safe,Safe
+data/Moderate/yt_video1_frame003041.jpg,1,Moderate Risk,Moderate
+data/High/6167298c-91149644.jpg,2,High Risk,High
+data/High/custom_high_risk_rain_0049.jpg,2,High Risk,High
+data/Safe/int_video1_frame000425.jpg,0,Safe,Safe
+data/High/344832_label.png,2,High Risk,High
+data/High/int_video3_frame003316.jpg,2,High Risk,High
+data/High/ac1f51ec-3f315017.jpg,2,High Risk,High
+data/High/b0c83e04-fe064a66.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0017.jpg,2,High Risk,High
+data/High/yt_video3_frame008109.jpg,2,High Risk,High
+data/High/yt_video1_frame001763.jpg,2,High Risk,High
+data/High/01638325-c0f998fd.jpg,2,High Risk,High
+data/High/0035afff-3295dbd6.jpg,2,High Risk,High
+data/High/0014281_inst_label.png,2,High Risk,High
+data/Safe/int_video3_frame003303.jpg,0,Safe,Safe
+data/High/yt_video3_frame010129.jpg,2,High Risk,High
+data/High/63d0e465-fa995a6d.jpg,2,High Risk,High
+data/High/a6212441-a945feb8.jpg,2,High Risk,High
+data/High/yt_video2_frame001658.jpg,2,High Risk,High
+data/Safe/int_video3_frame004260.jpg,0,Safe,Safe
+data/High/yt_video1_frame001214.jpg,2,High Risk,High
+data/Safe/int_video2_frame000454.jpg,0,Safe,Safe
+data/High/1660836a-5511bb30.jpg,2,High Risk,High
+data/Safe/int_video1_frame000317.jpg,0,Safe,Safe
+data/Moderate/yt_video2_frame003961.jpg,1,Moderate Risk,Moderate
+data/Safe/int_video1_frame000494.jpg,0,Safe,Safe
+data/High/6d07f826-ba6e6c06.jpg,2,High Risk,High
+data/High/frame0074_label.png,2,High Risk,High
+data/High/c2a6b1c9-dd645325.jpg,2,High Risk,High
+data/Safe/int_video1_frame000587.jpg,0,Safe,Safe
+data/High/4b8bc434-608f4fb9.jpg,2,High Risk,High
+data/Safe/custom_safe_highway_0006.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000252.jpg,0,Safe,Safe
+data/Safe/64b92603-e56a6b05.jpg,0,Safe,Safe
+data/High/1cf3d144-74b1e15e.jpg,2,High Risk,High
+data/High/82b67de3-8a3ae63a.jpg,2,High Risk,High
+data/High/6cf76e39-620f6daa.jpg,2,High Risk,High
+data/High/88b6fbc3-8dc81169.jpg,2,High Risk,High
+data/High/custom_safe_highway_0047.jpg,2,High Risk,High
+data/High/7d6eb8b3-011cace5.jpg,2,High Risk,High
+data/Safe/yt_video2_frame002233.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000686.jpg,0,Safe,Safe
+data/High/0004301_image.jpg,2,High Risk,High
+data/High/4fee5fdf-f52dd83f.jpg,2,High Risk,High
+data/High/8db7b720-c88efb2c.jpg,2,High Risk,High
+data/High/023393_label.png,2,High Risk,High
+data/Safe/int_video2_frame000618.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000368.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000246.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000333.jpg,0,Safe,Safe
+data/High/492856_label.png,2,High Risk,High
+data/High/frame86749_inst_label.png,2,High Risk,High
+data/High/yt_video3_frame001647.jpg,2,High Risk,High
+data/High/5dece8fe-5fc3747c.jpg,2,High Risk,High
+data/High/873503_image.jpg,2,High Risk,High
+data/High/8d7bb221-d6b7d314.jpg,2,High Risk,High
+data/High/609dca0c-9702da84.jpg,2,High Risk,High
+data/Safe/int_video3_frame001063.jpg,0,Safe,Safe
+data/Safe/yt_video2_frame004035.jpg,0,Safe,Safe
+data/High/yt_video3_frame010716.jpg,2,High Risk,High
+data/High/yt_video3_frame001310.jpg,2,High Risk,High
+data/Moderate/yt_video1_frame003978.jpg,1,Moderate Risk,Moderate
+data/High/507521_inst_label.png,2,High Risk,High
+data/Safe/yt_video2_frame001572.jpg,0,Safe,Safe
+data/High/yt_video1_frame000283.jpg,2,High Risk,High
+data/High/yt_video2_frame001570.jpg,2,High Risk,High
+data/Safe/int_video3_frame000522.jpg,0,Safe,Safe
+data/High/04c1cfb5-0dd39bbe.jpg,2,High Risk,High
+data/Safe/int_video1_frame000122.jpg,0,Safe,Safe
+data/High/yt_video2_frame004198.jpg,2,High Risk,High
+data/Safe/int_video1_frame000579.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000605.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000419.jpg,0,Safe,Safe
+data/Moderate/yt_video2_frame002262.jpg,1,Moderate Risk,Moderate
+data/High/frame3599_image.jpg,2,High Risk,High
+data/Safe/yt_video2_frame004639.jpg,0,Safe,Safe
+data/High/9a08ec1f-dc5448ca.jpg,2,High Risk,High
+data/High/0001924_label.png,2,High Risk,High
+data/Safe/yt_video2_frame004593.jpg,0,Safe,Safe
+data/High/45ecc67d-2600a034.jpg,2,High Risk,High
+data/Safe/int_video2_frame000138.jpg,0,Safe,Safe
+data/High/frame6434_image.jpg,2,High Risk,High
+data/High/174666_label.png,2,High Risk,High
+data/High/yt_video3_frame005965.jpg,2,High Risk,High
+data/High/frame26635_inst_label.png,2,High Risk,High
+data/High/0032658_label.png,2,High Risk,High
+data/High/custom_high_risk_rain_0047.jpg,2,High Risk,High
+data/High/150238_inst_label.png,2,High Risk,High
+data/High/yt_video3_frame011790.jpg,2,High Risk,High
+data/High/yt_video1_frame001675.jpg,2,High Risk,High
+data/High/012436_image.jpg,2,High Risk,High
+data/Safe/int_video3_frame004956.jpg,0,Safe,Safe
+data/High/yt_video1_frame003432.jpg,2,High Risk,High
+data/High/frame9941_inst_label.png,2,High Risk,High
+data/High/3021fc2b-78a1d296.jpg,2,High Risk,High
+data/Safe/int_video1_frame000220.jpg,0,Safe,Safe
+data/High/513939_inst_label.png,2,High Risk,High
+data/High/4dd4c756-43326714.jpg,2,High Risk,High
+data/Moderate/yt_video2_frame002070.jpg,1,Moderate Risk,Moderate
+data/High/int_video3_frame003344.jpg,2,High Risk,High
+data/High/yt_video2_frame000924.jpg,2,High Risk,High
+data/High/148536_label.png,2,High Risk,High
+data/High/039f729b-2ba56f17.jpg,2,High Risk,High
+data/High/c8e8cd4a-9dd5daeb.jpg,2,High Risk,High
+data/Safe/int_video2_frame000243.jpg,0,Safe,Safe
+data/High/yt_video2_frame004541.jpg,2,High Risk,High
+data/Safe/int_video2_frame000068.jpg,0,Safe,Safe
+data/Safe/int_video2_frame000675.jpg,0,Safe,Safe
+data/High/414746_inst_label.png,2,High Risk,High
+data/High/frame1934_label.png,2,High Risk,High
+data/Safe/int_video1_frame000305.jpg,0,Safe,Safe
+data/High/yt_video3_frame013357.jpg,2,High Risk,High
+data/Safe/int_video2_frame000461.jpg,0,Safe,Safe
+data/High/yt_video3_frame003405.jpg,2,High Risk,High
+data/High/int_video3_frame003752.jpg,2,High Risk,High
+data/High/int_video3_frame001151.jpg,2,High Risk,High
+data/High/531483_image.jpg,2,High Risk,High
+data/High/696836_inst_label.png,2,High Risk,High
+data/Moderate/0528fc43-3d7684cb.jpg,1,Moderate Risk,Moderate
+data/High/yt_video3_frame003361.jpg,2,High Risk,High
+data/High/int_video3_frame002169.jpg,2,High Risk,High
+data/High/yt_video1_frame003674.jpg,2,High Risk,High
+data/High/custom_moderate_city_traffic_0029.jpg,2,High Risk,High
+data/Safe/int_video2_frame000304.jpg,0,Safe,Safe
+data/High/10391e15-a1ccc998.jpg,2,High Risk,High
+data/Safe/int_video3_frame004557.jpg,0,Safe,Safe
+data/High/806231_inst_label.png,2,High Risk,High
+data/High/35a4b51b-41434826.jpg,2,High Risk,High
+data/Safe/int_video1_frame000592.jpg,0,Safe,Safe
+data/High/yt_video3_frame008101.jpg,2,High Risk,High
+data/High/yt_video3_frame004964.jpg,2,High Risk,High
+data/Safe/int_video3_frame003501.jpg,0,Safe,Safe
+data/High/22d9eb85-20db1f81.jpg,2,High Risk,High
+data/High/yt_video1_frame002117.jpg,2,High Risk,High
+data/High/yt_video3_frame010264.jpg,2,High Risk,High
+data/High/22f7283a-151b673b.jpg,2,High Risk,High
+data/Safe/int_video1_frame000132.jpg,0,Safe,Safe
+data/High/yt_video1_frame000841.jpg,2,High Risk,High
+data/High/721452_label.png,2,High Risk,High
+data/High/yt_video1_frame003251.jpg,2,High Risk,High
+data/High/8ef8da34-054e7efe.jpg,2,High Risk,High
+data/High/2be9b356-d626d500.jpg,2,High Risk,High
+data/High/yt_video1_frame001769.jpg,2,High Risk,High
+data/High/970497_inst_label.png,2,High Risk,High
+data/High/yt_video2_frame000003.jpg,2,High Risk,High
+data/High/313135_image.jpg,2,High Risk,High
+data/High/790330_image.jpg,2,High Risk,High
+data/High/49bdeae2-085b140c.jpg,2,High Risk,High
+data/Safe/int_video1_frame000100.jpg,0,Safe,Safe
+data/Safe/int_video1_frame000238.jpg,0,Safe,Safe
+data/High/yt_video3_frame012617.jpg,2,High Risk,High
+data/High/653e01d3-6a9813ae.jpg,2,High Risk,High
+data/High/4f5de451-2b1866ee.jpg,2,High Risk,High
+data/High/frame12944_image.jpg,2,High Risk,High
+data/Safe/int_video1_frame000332.jpg,0,Safe,Safe
+data/High/yt_video1_frame001784.jpg,2,High Risk,High
+data/High/af56505d-d1320e51.jpg,2,High Risk,High
+data/High/frame31112_inst_label.png,2,High Risk,High
+data/High/frame15880_inst_label.png,2,High Risk,High
+data/High/yt_video3_frame009864.jpg,2,High Risk,High
+data/Safe/yt_video2_frame003945.jpg,0,Safe,Safe
+data/High/yt_video2_frame004489.jpg,2,High Risk,High
+data/Safe/int_video3_frame002851.jpg,0,Safe,Safe
+data/Safe/int_video3_frame001435.jpg,0,Safe,Safe
+data/Safe/int_video3_frame005058.jpg,0,Safe,Safe
+data/High/0094ffe5-596e38bd.jpg,2,High Risk,High
+data/High/yt_video1_frame002066.jpg,2,High Risk,High
+data/High/yt_video3_frame008188.jpg,2,High Risk,High
+data/Safe/int_video2_frame000603.jpg,0,Safe,Safe
+data/High/825471_image.jpg,2,High Risk,High
+data/High/82960381-95ca7045.jpg,2,High Risk,High
+data/Safe/yt_video2_frame004579.jpg,0,Safe,Safe
+data/High/181557_image.jpg,2,High Risk,High
+data/High/016340_image.jpg,2,High Risk,High
+data/Moderate/yt_video2_frame002592.jpg,1,Moderate Risk,Moderate
+data/High/yt_video1_frame003473.jpg,2,High Risk,High
+data/Safe/int_video3_frame002254.jpg,0,Safe,Safe
+data/High/yt_video3_frame003325.jpg,2,High Risk,High
+data/High/bd605431-86ad04a8.jpg,2,High Risk,High
+data/High/0000000_inst_label.png,2,High Risk,High
+data/Safe/int_video1_frame000569.jpg,0,Safe,Safe
+data/High/custom_moderate_city_traffic_0052.jpg,2,High Risk,High
+data/High/0021314_label.png,2,High Risk,High
+data/Safe/yt_video2_frame001351.jpg,0,Safe,Safe

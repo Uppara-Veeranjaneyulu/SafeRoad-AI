@@ -27,9 +27,12 @@ api.interceptors.response.use(
   }
 );
 
-// Future API endpoints
+// API endpoints
 export const predictionAPI = {
-  predict: (formData) => api.post('/predict', formData, { headers: { 'Content-Type': 'multipart/form-data' } }),
+  predict: (formData, model = 'best') =>
+    api.post(`/predict?model=${encodeURIComponent(model)}`, formData, {
+      headers: { 'Content-Type': 'multipart/form-data' },
+    }),
   getHistory: () => api.get('/predictions/history'),
   getStats: () => api.get('/predictions/stats'),
 };
@@ -37,10 +40,15 @@ export const predictionAPI = {
 export const modelAPI = {
   getMetrics: () => api.get('/models/metrics'),
   getComparison: () => api.get('/models/comparison'),
+  getList: () => api.get('/models/list'),
 };
 
 export const datasetAPI = {
   getStats: () => api.get('/datasets/stats'),
+};
+
+export const healthAPI = {
+  check: () => api.get('/health'),
 };
 
 export default api;

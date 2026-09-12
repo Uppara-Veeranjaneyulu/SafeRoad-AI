@@ -3,10 +3,10 @@ import { defaultOptions } from './chartConfig';
 import { accuracyCurveData, lossCurveData } from '../../data/dummyData';
 import '../Charts/chartConfig';
 
-export function AccuracyCurveChart() {
+export function AccuracyCurveChart({ data }) {
   return (
     <div className="chart-wrapper">
-      <Line data={accuracyCurveData} options={{
+      <Line data={data || accuracyCurveData} options={{
         ...defaultOptions,
         scales: {
           ...defaultOptions.scales,
@@ -14,7 +14,7 @@ export function AccuracyCurveChart() {
           y: {
             ...defaultOptions.scales.y,
             title: { display: true, text: 'Accuracy (%)', color: '#64748B' },
-            ticks: { ...defaultOptions.scales.y.ticks, callback: (v) => `${v.toFixed(0)}%` },
+            ticks: { ...defaultOptions.scales.y.ticks, callback: (v) => `${Number(v).toFixed(0)}%` },
           },
         },
       }} />
@@ -22,10 +22,10 @@ export function AccuracyCurveChart() {
   );
 }
 
-export function LossCurveChart() {
+export function LossCurveChart({ data }) {
   return (
     <div className="chart-wrapper">
-      <Line data={lossCurveData} options={{
+      <Line data={data || lossCurveData} options={{
         ...defaultOptions,
         scales: {
           ...defaultOptions.scales,
@@ -33,7 +33,7 @@ export function LossCurveChart() {
           y: {
             ...defaultOptions.scales.y,
             title: { display: true, text: 'Loss', color: '#64748B' },
-            ticks: { ...defaultOptions.scales.y.ticks, callback: (v) => v.toFixed(2) },
+            ticks: { ...defaultOptions.scales.y.ticks, callback: (v) => Number(v).toFixed(2) },
           },
         },
       }} />

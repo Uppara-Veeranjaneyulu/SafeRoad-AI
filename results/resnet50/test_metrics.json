@@ -1,0 +1,50 @@
+{
+  "model": "ResNet50",
+  "accuracy": 0.7114093959731543,
+  "accuracy_percent": 71.14093959731544,
+  "precision": 0.6651497294040803,
+  "recall": 0.7228238875301322,
+  "f1_score": 0.6057670423747615,
+  "macro_f1": 0.6057670423747615,
+  "high_risk_recall": 0.7220496894409938,
+  "per_class": {
+    "Safe": {
+      "precision": 0.9416342412451362,
+      "recall": 0.6855524079320113,
+      "f1_score": 0.7934426229508197,
+      "support": 353
+    },
+    "Moderate Risk": {
+      "precision": 0.12195121951219512,
+      "recall": 0.7608695652173914,
+      "f1_score": 0.21021021021021022,
+      "support": 46
+    },
+    "High Risk": {
+      "precision": 0.9318637274549099,
+      "recall": 0.7220496894409938,
+      "f1_score": 0.8136482939632546,
+      "support": 644
+    }
+  },
+  "confusion_matrix": [
+    [
+      242,
+      86,
+      25
+    ],
+    [
+      2,
+      35,
+      9
+    ],
+    [
+      13,
+      166,
+      465
+    ]
+  ],
+  "inference_time_ms": 35.8732475873265,
+  "training_time_seconds": 440.0,
+  "total_parameters": 23850371
+}
