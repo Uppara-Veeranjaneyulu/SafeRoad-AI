@@ -219,3 +219,14 @@ print_summary.py
 verify_deck.py
 capture_ui.py
 scratch/
+
+# -----------------------------------------------------------------------------
+# Excluded Presentation Builders, PDF Report & Root Screenshots
+# -----------------------------------------------------------------------------
+SafeRoad_AI_Comprehensive_Project_Report.pdf
+build_full_review2_pptx.py
+build_module3_veeranjaneyulu.py
+build_veeranjaneyulu_efficientnet_deck.py
+generate_pdf_report.py
+generate_perfect_pptx.py
+ui_home.png
