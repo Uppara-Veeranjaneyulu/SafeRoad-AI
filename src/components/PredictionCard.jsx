@@ -68,6 +68,85 @@ export default function PredictionCard({ prediction }) {
     );
   }
 
+  // Non-Road / Portrait Rejection View
+  if (prediction.isInvalidScene) {
+    return (
+      <motion.div
+        initial={{ opacity: 0, scale: 0.96 }}
+        animate={{ opacity: 1, scale: 1 }}
+        transition={{ duration: 0.4 }}
+        className="rounded-2xl border-2 border-[#D32F2F]/30 bg-[#FAF9F2] shadow-sm overflow-hidden"
+        style={{ boxShadow: '0 8px 30px rgba(211,47,47,0.08)' }}
+      >
+        {/* Warning Banner Header */}
+        <div className="px-6 py-5 bg-gradient-to-r from-[#D32F2F]/10 via-[#D32F2F]/5 to-transparent border-b border-[#D32F2F]/20">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-3">
+              <motion.div
+                animate={{ scale: [1, 1.1, 1] }}
+                transition={{ duration: 1.5, repeat: Infinity }}
+                className="w-12 h-12 rounded-xl bg-[#D32F2F]/15 border border-[#D32F2F]/30 flex items-center justify-center"
+              >
+                <MdError className="text-3xl text-[#D32F2F]" />
+              </motion.div>
+              <div>
+                <span className="text-[11px] font-bold text-[#D32F2F] uppercase tracking-wider px-2 py-0.5 rounded bg-[#D32F2F]/10">
+                  Validation Failed
+                </span>
+                <h2 className="font-display font-bold text-2xl text-[#222426] mt-1">
+                  {prediction.title || 'Non-Road Scene Detected'}
+                </h2>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Content Details */}
+        <div className="p-6 space-y-5">
+          <div className="p-4 rounded-xl bg-[#D32F2F]/5 border border-[#D32F2F]/15">
+            <p className="text-sm font-semibold text-[#D32F2F] mb-1">
+              ⚠️ {prediction.message || 'The uploaded image appears to be a portrait or personal photo rather than a roadway scene.'}
+            </p>
+            <p className="text-xs text-[#4F504E] mt-1 leading-relaxed">
+              SafeRoad AI's deep learning pipeline is trained on BDD100K and India Driving Dataset (IDD). It requires forward-facing vehicle dashcam, highway, or traffic intersection imagery.
+            </p>
+          </div>
+
+          {/* Diagnostic Metrics */}
+          <div>
+            <h4 className="text-xs font-semibold text-[#7E7F81] uppercase tracking-wider mb-2">
+              Image Validation Diagnostics
+            </h4>
+            <div className="grid grid-cols-2 gap-3">
+              <div className="p-3 rounded-xl bg-[#FEFEF4] border border-[#222426]/10">
+                <p className="text-xs text-[#7E7F81]">Subject Analysis</p>
+                <p className="text-sm font-bold text-[#D32F2F] mt-0.5">
+                  {prediction.sceneType === 'portrait' ? 'Human Portrait / Selfie' : 'Non-Road Object'}
+                </p>
+              </div>
+              <div className="p-3 rounded-xl bg-[#FEFEF4] border border-[#222426]/10">
+                <p className="text-xs text-[#7E7F81]">Roadway Geometry</p>
+                <p className="text-sm font-bold text-[#D32F2F] mt-0.5">
+                  No Road Surface Detected
+                </p>
+              </div>
+            </div>
+          </div>
+
+          {/* Actionable Guidance */}
+          <div className="p-4 rounded-xl bg-[#E5BD1A]/10 border border-[#E5BD1A]/20">
+            <h4 className="text-xs font-bold text-[#222426] uppercase tracking-wider mb-1 flex items-center gap-1.5">
+              <MdLightbulb className="text-[#E5BD1A] text-base" /> How to test correctly
+            </h4>
+            <p className="text-xs text-[#4F504E] leading-relaxed">
+              {prediction.recommendation || 'Please upload a forward-facing roadway or dashcam photo, or click one of the 1-Click Road Benchmark Samples on the left to immediately test Low, Moderate, and High Risk scenarios.'}
+            </p>
+          </div>
+        </div>
+      </motion.div>
+    );
+  }
+
   const cfg = riskConfig[prediction.riskLevel] || riskConfig.high;
   const RiskIcon = cfg.icon;
 
